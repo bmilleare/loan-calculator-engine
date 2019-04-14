@@ -21,7 +21,7 @@
     "browserify"
   ],
   "dependencies": {
-    "financial-calculator-engine": "file:../../../../../../../var/folders/r7/0z_br2810pb5mh9nwr893ywr0000gn/T/npm-90590-96615e31/1437481822729-0.652940379222855/e474a4b084026b7f2d0245b6bb61ce133db34e71",
+    "financial-calculator-engine": "github:pablodenadai/calculator-engine",
     "lodash": "^3.0.0"
   },
   "devDependencies": {
